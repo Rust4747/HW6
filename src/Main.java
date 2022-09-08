@@ -36,7 +36,7 @@ public class Main {
         int total=0;
         for (int i=1; i<=12; i=i+1) {
             total=total+salary;
-            System.out.println(i+ " месяц итого" +total);
+            System.out.println(i+ " месяц итого " +total);
         }
         double pr=0;
         double percent=0.01;
